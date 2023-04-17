@@ -1,7 +1,7 @@
 [![LINE-Creators-Stickers-Piggy-Mengmeng2-Example-with-GIF-Animation.gif](https://i.postimg.cc/gcwTpNZV/LINE-Creators-Stickers-Piggy-Mengmeng2-Example-with-GIF-Animation.gif)](https://postimg.cc/V58RB94v) 
 
-    $ git clone https://github.com/XyraaCode/Brute
-    $ cd $HOME/Brute
+    $ git clone https://github.com/XyraaCode/BRUTE
+    $ cd $HOME/BRUTE
     $ git pull
     $ python run.py
 
